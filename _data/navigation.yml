@@ -47,6 +47,9 @@ header:
       fr-LU   : *FR
       # @end locale config
     url: pages/res_pro.html
+    children:
+      - title: Test1
+        url: pages/res_pro.html
   - titles:
       # @start locale config
       en      : &EN       Contact

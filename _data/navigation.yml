@@ -25,7 +25,7 @@ header:
     url: pages/cv.html
   - titles:
       # @start locale config
-      en      : &EN       Research & Projects
+      en      : &EN       Research
       en-GB   : *EN
       en-US   : *EN
       en-CA   : *EN

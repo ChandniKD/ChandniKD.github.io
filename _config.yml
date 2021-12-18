@@ -105,7 +105,7 @@ paginate_path: /page:num # don't change this unless for special need
 
 ## => Sources
 ##############################
-sources: app
+sources: # bootcdn (default), unpkg
 
 
 ## => Sharing

@@ -41,8 +41,6 @@ html,
 }
 
 .page__content {
-  text-align: justify;
-  font-size: 11pt;
   @include flex(1);
   width: 100%;
   margin: 0 auto;
